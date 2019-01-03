@@ -1,24 +1,38 @@
-作者：CyC2018 
+| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+| 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)| 后记[:memo:](#memo-后记) |
 
-链接：https://www.nowcoder.com/discuss/137593
+<br>
 
-来源：牛客网
+<div align="center">
+    <img src="other/LogoMakr_0zpEzN.png" width="150px">
+    <br>
+    <a href="other/Group.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a> <a href="https://legacy.gitbook.com/book/cyc2018/interview-notebook/details"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
+</div> 
 
-## 前言
+### :pencil2: 算法
 
-2018，有过迷茫，有过努力，也有很多收获。为了记录这一年以来的感受，于是有了这篇文章。
+- [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/剑指%20offer%20题解.md)
 
-## Offer 情况
+  目录根据原书第二版进行编排，代码和原书有所不同，尽量比原书更简洁。
 
-经过了长达一年左右的复习，秋招也收到了几个比较满意的 Offer，参加面试的都通过了。
+- [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode%20题解.md)
 
-- 百度，企业智能平台； 
-- 阿里，高德地图，部门已联系，目前还在申报 Offer 中； 
-- 腾讯，IEG 游戏平台，后台研发，SP； 
-- 字节跳动，头条后台研发，SSP； 
-- 华为，Cloud Bu； 
-- 网易游戏，梦幻事业部； 
-- 顺丰科技。 
+  对题目做了一个大致分类，并对每种题型的解题思路做了总结。
+  
+ - [算法](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/算法.md)
+
+   排序、并查集、栈和队列、红黑树、散列表。
+
+### :computer: 操作系统
+
+- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/计算机操作系统.md)
+
+  进程管理、内存管理、设备管理、链接。
+
+- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Linux.md)
+
+  基本实现原理以及基本操作。
 
 
 
