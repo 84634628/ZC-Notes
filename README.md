@@ -7,5 +7,5 @@
 <div align="center">
     <img src="https://github.com/84634628/ZC-Notes/blob/master/docs/pictures/%E5%B7%A5%E4%BD%9C%E9%9B%86%E5%A4%A7%E5%B0%8F%E5%8F%98%E5%8C%96.PNG" width="150px">
     <br>
-    <a href="other/Group.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a> <a href="https://legacy.gitbook.com/book/cyc2018/interview-notebook/details"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
+   
 </div> 
